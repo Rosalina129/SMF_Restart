@@ -1,0 +1,71 @@
+Fabricant:UeCon128
+Script:UeCon128
+
+===========Images Sprites From===========
+The Spriters Resource
+DeviantArt
+SMBX Forums
+PGE Platform Forums
+Hel Studio
+Marchtinal's Teahouse
+=========================================
+
+======Make Time : 2019.1.29======
+======
+
+===============Music From================
+
+============Nintendo=============
+Super Mario 3D World
+Super Mario 3D Land
+Super Mario World
+Kirby's Triple Deluxe
+Kirby's Return to Dream Land
+Super Mario Galaxy
+Mario Sports Mix
+Mario Kart 7
+Mario Kart Wii
+Paper Mario 64
+Rayman
+Animal Crossing: New Leaf
+Animal Crossing: Pocket Camp
+Super Smash Bros for Wii U and 3DS
+Super Mario Maker
+Mario Party 3
+Mario Party 9
+Mario Party 10
+Paper Mario: Color Splash
+New Super Mario Bros. Wii
+The Legend of Zelda: Ocarina of Time
+=Sega=
+Sonic The Hedgehog
+
+=MFGG=
+Super Mario 2D Universe
+Super Mario 2D Unimaker
+
+=Autuor=
+Qumu Remix
+
+=Fans Games=
+Mario Forever: Block Party
+Super Mario Fusion: Revival
+Roblox - SMO RP
+
+
+=========Special Thanks==========
+Marchtinal(In A-1,Cannonball Automatic Control Script.)
+Vkdfkc(The tools to quickly write the required script to each level)
+Slash(Provides a script for the sun and moon)
+Yave Yu(In Minigames 2, Taught me how to get NPC and player range)
+Suoer氧哥(In A-1, ? Block recover to Cannon)
+
+======Special Thanks Groups======
+Hel Studio
+Marchtinal's Teahouse
+=================================
+
+
+
+
+

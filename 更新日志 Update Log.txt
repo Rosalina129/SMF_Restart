@@ -1,0 +1,46 @@
+=======English=======v1.0.2 Patch 1 (Flatten and unify Update)
+Preamble: I'm sorry that most of the time was wasted on a unified HUD layout, resulting in new levels never being built. I'll fix it as soon as possible.
+1.Improved HUD again, and remove non-pixelated images. Changed the Mario & Luigi series style heads for the characters, and unified the layout to the top.
+2.Relayout each level, add appropriate effects.
+3.Added experimental gameplay: Star bits (salute Super Mario Galaxy)
+4.Added experimental gameplay: Angry sun and Mysterious moon (Super Mario Maker 2 New things/SMBX 1.4.5 Fix and Sprites used SMB3 Style all.)
+=======简体中文=======v1.0.2 Patch 1 (扁平化统一更新)
+前言:大部分时间都浪费在了统一HUD布局上，导致新关卡一直未开工，为此感到抱歉。我会尽快修复。
+1.再次改进HUD，去掉非像素化图片，为角色换上了ML风格的头像，统一布局到顶上。
+2.重新布局每个关卡，适量添加效果特效等。
+3.增加实验玩法：星屑(致敬马里奥银河)
+4.增加实验玩法：愤怒的太阳和月亮(超级马里奥制造2新增的以及SMBX1.4.5的AI修改，素材全部使用SMB3风格)
+
+=======English=======v1.0.2
+1.Improved HUD again, removing a lot of fancy stuff, changing most of it to text, and unifying the font to Unifont.
+2.Added 5-2 and 11-☆ levels.
+3.Added Minigames.
+4.Added Developer Level,and removed Creative Template.
+5.Remove encrypt password Settings and add the beginning of the intro.
+=======简体中文=======v1.0.2
+1.再次改进HUD，移除许多花里胡哨的东西，大部分改为文本，并把字体统一为Unifont。
+2.增加5-2和11-☆关卡
+3.增加迷你游戏。
+4.增加开发者关卡，移除Creative Template.
+5.移除密钥游玩设定，增加开头剧情
+
+=======English=======v1.0.1 (Simplify update)
+1.Improved HUD and removed some useless elements
+2.Increased level result screen
+3.Add more BGO and details to beautify the level scene.
+4.Add 4-6 to 5-1, and 11-★(Developer Test)
+5.Part of HUD is translated from English into Chinese
+6.Remove "Painting show" and change to "Achievement Gallery"(unrealized)
+7.The demo version now requires an encrypt password to play, and the level is encrypted to prevent malicious modification and diffusion.(unrealized)
+8.Edited some animals in "Campsite" Level, Now the Tad and Lily's Sprites now found.
+9.Edited Audios' Bits and Files path.(the goal is to prevent some of the sound effects or music in the game from breaking)
+=======简体中文=======v1.0.1 (简化更新)
+1.改变了HUD，并移除了一些无关紧要的元素(有彩蛋哦~)
+2.增加了关卡末尾分数结算
+3.增加更多BGO和细节用来美化关卡场景
+4.增加4-6~5-1关卡，和11-★(开发者测试)
+5.将HUD的部分英文翻译成中文
+6.移除“Painting Show”更改为“Achievement Gallery”(未实现)
+7.试玩版现在需要通过密钥才能游玩，并且关卡进行加密以防被恶意修改和扩散。(未实现)
+8.修改了"Campsite"里的动物，现在Tad和Lily的人物素材已经找到。
+9.修改了音频文件的比特率和路径，美化根目录和改名。(目的是为了防止游戏里部分音效或音乐出现破音的情况)

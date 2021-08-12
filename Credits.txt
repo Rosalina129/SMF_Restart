@@ -1,17 +1,18 @@
-Fabricant:UeCon128
-Script:UeCon128
+Fabricant: UeCon128
+Script: UeCon128
+Remade: BeeUser12
 
 ===========Images Sprites From===========
 The Spriters Resource
 DeviantArt
 SMBX Forums
 PGE Platform Forums
-Hel Studio
-Marchtinal's Teahouse
+Hel Studio (Legacy)
+Marchtinal's Teahouse (Legacy)
 =========================================
 
 ======Make Time : 2019.1.29======
-======
+======Remake Time : 2021.8.12======
 
 ===============Music From================
 
@@ -63,6 +64,8 @@ Suoer氧哥(In A-1, ? Block recover to Cannon)
 ======Special Thanks Groups======
 Hel Studio
 Marchtinal's Teahouse
+Revolution Fans Center
+Fantasy Light Year Studio
 =================================
 
 

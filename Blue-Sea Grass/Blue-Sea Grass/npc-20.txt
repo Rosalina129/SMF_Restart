@@ -1,0 +1,7 @@
+gfxwidth=32
+gfxheight=32
+frames=6
+framestyle=2
+width=32
+height=32
+nofireball=0

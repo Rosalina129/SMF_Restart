@@ -1,0 +1,3 @@
+gfxwidth=28
+frames=2
+width=28

@@ -1,0 +1,5 @@
+gfxwidth=28
+frames=8
+framespeed=3
+width=28
+scripts=##coin

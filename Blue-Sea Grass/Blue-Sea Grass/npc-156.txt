@@ -1,0 +1,11 @@
+gfxwidth=16
+gfxheight=16
+gfxoffsety=-16
+gfxsplitheight=64
+frames=2
+framestyle=1
+width=16
+height=32
+npcblock=0
+noblockcollision=0
+scripts=butterfly

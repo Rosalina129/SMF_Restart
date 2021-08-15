@@ -1,0 +1,3 @@
+gfxwidth=18
+gfxheight=18
+scripts=##Fireball

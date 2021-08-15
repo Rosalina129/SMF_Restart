@@ -18,8 +18,8 @@ Preamble: I heard that Super Mario Forever was criticized for its plagiarism, bu
 2.移除 Rosalina Cards，Shopcoin 两个游戏虚拟货币，或许会有替代品。
 3.移除 Pipelevels 并重新制作。
 4.移除所有别的地方嫖过来的关卡以消除争议。
-5.废弃 SMB1 风格素材，统一使用 2D Universe 制作关卡。
-6.移除 A世界，R世界，Start世界 并重新制作。
+5.废弃 SMB1 风格素材，统一使用 2D Universe 风格制作关卡。
+6.移除 A世界，R世界，Start世界 等H-T（高科技）世界。
 7.移除 Hel Studio 彩蛋关卡。
 8.暂时移除 Minigames 关卡部分。
 9.移除 星屑 玩法。

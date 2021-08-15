@@ -1,0 +1,8 @@
+gfxwidth=64
+gfxheight=64
+gfxsplitheight=64
+zposition=0.4
+width=64
+height=64
+health=362
+scripts=barrel

@@ -1,0 +1,7 @@
+gfxwidth=16
+gfxheight=16
+gfxsplitheight=64
+frames=2
+framestyle=1
+height=16
+scripts=Birds

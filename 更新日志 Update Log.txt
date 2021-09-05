@@ -11,11 +11,11 @@ Preamble: I heard that Super Mario Forever was criticized for its plagiarism, bu
 9.Removed Starbits.
 10.Removed GUI.
 11.Temporal Removed all elements about "Animal Crossing".
-12.Temporal Removed Rosie Coins.
+12.Temporal Removed Rosie Coins and replace of "Cat Jade" Collection.
 =======简体中文=======v2.0 (重做计划)
 前言:听说以前SMF因为抄袭事件被大家指责导致该关卡集臭名远扬，不过现在吸取了经验，开始重做了！
 1.移除全部关卡，重新制作新关卡。
-2.移除 Rosalina Cards，Shopcoin 两个游戏虚拟货币，或许会有替代品。
+2.暂时移除 Rosalina Cards，Shopcoin 两个游戏虚拟货币，或许会有替代品。
 3.移除 Pipelevels 并重新制作。
 4.移除所有别的地方嫖过来的关卡以消除争议。
 5.废弃 SMB1 风格素材，统一使用 2D Universe 风格制作关卡。
@@ -25,7 +25,7 @@ Preamble: I heard that Super Mario Forever was criticized for its plagiarism, bu
 9.移除 星屑 玩法。
 10.移除 HUD。
 11.暂时移除 所有有关《动物森友会》的内容。
-12.暂时移除 Rosie 大金币。
+12.暂时移除 Rosie 大金币，使用 Cat Jade 作为收集物。
 
 =======English=======v1.0.2 Patch 1 (Flatten and unify Update)
 Preamble: I'm sorry that most of the time was wasted on a unified HUD layout, resulting in new levels never being built. I'll fix it as soon as possible.

@@ -1,0 +1,4 @@
+gfxheight=24
+framestyle=0
+height=24
+scripts=##smf:adf
